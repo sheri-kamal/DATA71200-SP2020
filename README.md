@@ -12,4 +12,4 @@ This repository contains the dataset and codes necessary for the three projects 
 
 3. [Project 3 - Unsupervised Learing Techniques](https://github.com/sheri-kamal/DATA71200-SP2020/blob/master/Project%203%20-%20Unsupervised%20Learning.ipynb) (15% of final grade)
 
-4. Final Project - Whitepaper (20% of final grade)
+4. [Final Project - Whitepaper](https://github.com/sheri-kamal/DATA71200-SP2020/blob/master/Final%20Project.pdf) (20% of final grade)
